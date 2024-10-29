@@ -1,7 +1,7 @@
 # body-fat-calculator
 A JavaScript implementation of the Jackson & Pollock body density equations.
 
-You can find a working example of the [KetoDiet Body Fat Calculator](http://ketodietapp.com/Blog/page/body-fat-calculator) on the [KetoDiet Blog](http://ketodietapp.com/Blog).
+You can find a working example of the [KetoDiet Body Fat Calculator](http://ketodietapp.com/body-fat-calculator).
 
 ### Getting Started
 
